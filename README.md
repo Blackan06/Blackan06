@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Huynh Anh Kiet</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
-<image align="right" alt="coding" width="400" src="https://i.imgflip.com/5yauub.gif">
+<image align="right" alt="coding" width="380" src="https://i.imgflip.com/5yauub.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackan06&label=Profile%20views&color=0e75b6&style=flat" alt="blackan06" /> </p>
 
