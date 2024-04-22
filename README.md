@@ -47,7 +47,7 @@
       filter: invert(100%); /* Thêm thuộc tính filter để đảo ngược màu hình ảnh */
     "
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=blackan06&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=blackan06&theme=dark&show_icons=true&locale=en"
     alt="blackan06"
   />
 </p>
@@ -63,7 +63,7 @@
       filter: invert(100%); /* Thêm thuộc tính filter để đảo ngược màu hình ảnh */
     "
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=blackan06&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=blackan06&theme=dark"
     alt="blackan06"
   />
 </p>
