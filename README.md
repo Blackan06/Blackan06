@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Huynh Anh Kiet</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
@@ -31,7 +30,7 @@
       filter: invert(100%); /* Thêm thuộc tính filter để đảo ngược màu hình ảnh */
     "
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=blackan06&show_icons=true&locale=en&layout=compact"
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/blackan06?theme=dark&border_radius=0&hide_border=true&layout=compact"
     alt="blackan06"
   />
 </p>
@@ -68,4 +67,3 @@
     alt="blackan06"
   />
 </p>
-
