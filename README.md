@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huynh Anh Kiet</h1>
-<h3 align="center">A passionate fullstack developer from VietNam</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <image align="right" alt="coding" width="380" src="https://i.imgflip.com/5yauub.gif">
 
